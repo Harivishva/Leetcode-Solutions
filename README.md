@@ -3,7 +3,7 @@
 Solutions to LeetCode problems in JavaScript
 
 ## Progress
-- Easy: 1 ✅
+- Easy: 3 ✅
 - Medium: 1 ✅
 
 ## Problems
@@ -13,3 +13,5 @@ Solutions to LeetCode problems in JavaScript
 |---|---------|------------|----------|
 | 1 | Two Sum | Easy | HashMap |
 | 11 | Container With Most Water | Medium | Two Pointers |
+| 14 | Longest Common Prefix | Easy | Strings |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | Strings |
